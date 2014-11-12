@@ -14,6 +14,7 @@ git clone -q https://github.com/elelpublic/tablestream.git
 git clone -q https://github.com/elelpublic/samplerestapi.git
 git clone -q https://github.com/elelpublic/startwithangular.git
 git clone -q https://github.com/marsfromlars/pixel16pixel.git
+git clone -q https://github.com/elelpublic/bsmcommons.git
 cd ..
 tar czf github-backup-data.tgz github-backup-data
 mv github-backup-data.tgz ~/Dropbox
