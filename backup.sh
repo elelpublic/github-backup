@@ -17,6 +17,7 @@ git clone -q https://github.com/elelpublic/startwithangular.git
 git clone -q https://github.com/elelpublic/bsmcommons.git
 git clone -q https://github.com/elelpublic/wikitext-all.git
 git clone -q https://github.com/elelpublic/flyer.git
+git clone -q https://github.com/elelpublic/resthelper.git
 cd ..
 tar czf github-backup-data.tgz github-backup-data
 mv github-backup-data.tgz ~/Dropbox
