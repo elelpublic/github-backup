@@ -8,7 +8,6 @@ cd github-backup-data
 
 git clone -q https://github.com/elelpublic/github-backup.git
 git clone -q https://github.com/elelpublic/wikipower.git
-git clone -q https://github.com/elelpublic/wikipower-as-a-doc.git
 git clone -q https://github.com/elelpublic/infomarket.git
 git clone -q https://github.com/elelpublic/bsmicons.git
 git clone -q https://github.com/elelpublic/tablestream.git
