@@ -20,9 +20,10 @@ git clone -q https://github.com/elelpublic/startwithangular.git
 git clone -q https://github.com/elelpublic/tablestream.git
 git clone -q https://github.com/elelpublic/wikipower.git
 git clone -q https://github.com/elelpublic/wikitext-all.git
+git clone -q https://github.com/marsfromlars/xbattle.git
 cd ..
 tar czf github-backup-data.tgz github-backup-data
-mv github-backup-data.tgz $HOME/Google\ Drive/backup/
+mv github-backup-data.tgz $HOME/data/backup/work.backup/
 
 rm -rf github-backup-data
 
